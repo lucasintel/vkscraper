@@ -1,0 +1,48 @@
+{
+  "error": {
+    "error_code": 30,
+    "error_msg": "This profile is private",
+    "request_params": [
+      {
+        "key": "v",
+        "value": "5.131"
+      },
+      {
+        "key": "owner_id",
+        "value": "112"
+      },
+      {
+        "key": "count",
+        "value": "1"
+      },
+      {
+        "key": "photo_sizes",
+        "value": "1"
+      },
+      {
+        "key": "no_service_albumbs",
+        "value": "0"
+      },
+      {
+        "key": "need_hidden",
+        "value": "1"
+      },
+      {
+        "key": "skip_hidden",
+        "value": "0"
+      },
+      {
+        "key": "extended",
+        "value": "1"
+      },
+      {
+        "key": "method",
+        "value": "photos.getAll"
+      },
+      {
+        "key": "oauth",
+        "value": "1"
+      }
+    ]
+  }
+}

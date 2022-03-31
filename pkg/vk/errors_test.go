@@ -18,16 +18,16 @@ func TestVkHttpErrorMessage(t *testing.T) {
 func TestVkApiErrorMessage(t *testing.T) {
 	t.Parallel()
 	e := vk.VkApiError{
-		Code:    vk.FloodControlError,
-		Message: "Flood control error",
+		Code:    vk.TooManyRequestsError,
+		Message: "Too many requests per second",
 	}
-	assert.Equal(t, e.Error(), "Flood control error")
+	assert.Equal(t, e.Error(), "Too many requests per second")
 }
 
-func TestTooManyRequestsClientErrorMessage(t *testing.T) {
+func TestInstanceRateLimitedErrorMessage(t *testing.T) {
 	t.Parallel()
 	remaining := 10 * time.Second
-	e := vk.TooManyRequestsClientError{
+	e := vk.InstanceRateLimitedError{
 		Remaining: remaining,
 	}
 	assert.Equal(t, e.Error(), "Too many requests; please wait 10s")

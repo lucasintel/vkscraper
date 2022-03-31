@@ -1,0 +1,817 @@
+{
+  "response": {
+    "count": 1,
+    "items": [
+      {
+        "type": "stories",
+        "id": "333",
+        "stories": [
+          {
+            "id": 456239207,
+            "owner_id": 314833033,
+            "access_key": "XXX",
+            "can_comment": 1,
+            "can_reply": 1,
+            "can_see": 1,
+            "can_like": true,
+            "can_share": 1,
+            "can_hide": 1,
+            "date": 1648552720,
+            "expires_at": 1648639120,
+            "is_ads": false,
+            "replies": {
+              "count": 1,
+              "new": 0
+            },
+            "is_one_time": false,
+            "track_code": "111",
+            "type": "video",
+            "video": {
+              "access_key": "XXX",
+              "can_add": 0,
+              "can_download": 0,
+              "is_private": 1,
+              "date": 1648552719,
+              "description": "",
+              "duration": 7,
+              "image": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 96,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 120,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 240,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/800x450.jpg",
+                  "width": 800,
+                  "height": 450,
+                  "with_padding": 1
+                }
+              ],
+              "first_frame": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 1422
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 569
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 284
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 231
+                }
+              ],
+              "width": 720,
+              "height": 1280,
+              "id": 456239488,
+              "owner_id": 314833033,
+              "title": "vk stories",
+              "player": "https://static.vk.com/file.jpg",
+              "type": "video",
+              "views": 0,
+              "files": {
+                "mp4_720": "https://static.vk.com/720p.mp4"
+              }
+            },
+            "reaction_set_id": "reactions",
+            "is_restricted": false,
+            "no_sound": false,
+            "need_mute": false,
+            "mute_reply": false,
+            "can_ask": 0,
+            "can_ask_anonymous": 0,
+            "preloading_enabled": false
+          },
+          {
+            "id": 456239208,
+            "owner_id": 314833033,
+            "access_key": "XXX",
+            "can_comment": 1,
+            "can_reply": 1,
+            "can_see": 1,
+            "can_like": true,
+            "can_share": 1,
+            "can_hide": 1,
+            "date": 1648552884,
+            "expires_at": 1648639284,
+            "is_ads": false,
+            "replies": {
+              "count": 1,
+              "new": 0
+            },
+            "is_one_time": false,
+            "track_code": "111",
+            "type": "video",
+            "clickable_stickers": {
+              "original_height": 2283,
+              "original_width": 1284,
+              "clickable_stickers": [
+                {
+                  "id": 1,
+                  "type": "mention",
+                  "clickable_area": [
+                    {
+                      "x": 271,
+                      "y": 1889
+                    },
+                    {
+                      "x": 568,
+                      "y": 1889
+                    },
+                    {
+                      "x": 568,
+                      "y": 1934
+                    },
+                    {
+                      "x": 271,
+                      "y": 1934
+                    }
+                  ],
+                  "mention": "[id374684|@olga.rogova]",
+                  "style": "red_gradient"
+                }
+              ]
+            },
+            "video": {
+              "access_key": "XXX",
+              "can_add": 0,
+              "can_download": 0,
+              "is_private": 1,
+              "date": 1648552883,
+              "description": "",
+              "duration": 7,
+              "image": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 96,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 120,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 240,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 450,
+                  "with_padding": 1
+                }
+              ],
+              "first_frame": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 1422
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 569
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 284
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 231
+                }
+              ],
+              "width": 720,
+              "height": 1280,
+              "id": 456239489,
+              "owner_id": 314833033,
+              "title": "vk stories",
+              "player": "https://static.vk.com/file.jpg",
+              "type": "video",
+              "views": 0,
+              "files": {
+                "mp4_720": "https://static.vk.com/file.jpg"
+              }
+            },
+            "reaction_set_id": "reactions",
+            "is_restricted": false,
+            "no_sound": false,
+            "need_mute": false,
+            "mute_reply": false,
+            "can_ask": 0,
+            "can_ask_anonymous": 0,
+            "preloading_enabled": false
+          },
+          {
+            "id": 456239209,
+            "owner_id": 314833033,
+            "access_key": "XXX",
+            "can_comment": 1,
+            "can_reply": 1,
+            "can_see": 1,
+            "can_like": true,
+            "can_share": 1,
+            "can_hide": 1,
+            "date": 1648568130,
+            "expires_at": 1648654530,
+            "is_ads": false,
+            "replies": {
+              "count": 0,
+              "new": 0
+            },
+            "is_one_time": false,
+            "track_code": "111",
+            "type": "video",
+            "video": {
+              "access_key": "XXX",
+              "can_add": 0,
+              "can_download": 0,
+              "is_private": 1,
+              "date": 1648568129,
+              "description": "",
+              "duration": 15,
+              "image": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 96,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 120,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 240,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 450,
+                  "with_padding": 1
+                }
+              ],
+              "first_frame": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 1422
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 569
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 284
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 231
+                }
+              ],
+              "width": 720,
+              "height": 1280,
+              "id": 456239490,
+              "owner_id": 314833033,
+              "title": "vk stories",
+              "player": "https://static.vk.com/file.jpg",
+              "type": "video",
+              "views": 0,
+              "files": {
+                "mp4_720": "https://static.vk.com/file.jpg"
+              }
+            },
+            "reaction_set_id": "reactions",
+            "is_restricted": false,
+            "no_sound": false,
+            "need_mute": false,
+            "mute_reply": false,
+            "can_ask": 0,
+            "can_ask_anonymous": 0,
+            "preloading_enabled": false
+          },
+          {
+            "id": 456239210,
+            "owner_id": 314833033,
+            "access_key": "XXX",
+            "can_comment": 1,
+            "can_reply": 1,
+            "can_see": 1,
+            "can_like": true,
+            "can_share": 1,
+            "can_hide": 1,
+            "date": 1648568141,
+            "expires_at": 1648654541,
+            "is_ads": false,
+            "replies": {
+              "count": 0,
+              "new": 0
+            },
+            "is_one_time": false,
+            "track_code": "111",
+            "type": "video",
+            "video": {
+              "access_key": "XXX",
+              "can_add": 0,
+              "can_download": 0,
+              "is_private": 1,
+              "date": 1648568140,
+              "description": "",
+              "duration": 15,
+              "image": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 96,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 120,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 240,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 450,
+                  "with_padding": 1
+                }
+              ],
+              "first_frame": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 1422
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 569
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 284
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 231
+                }
+              ],
+              "width": 720,
+              "height": 1280,
+              "id": 456239491,
+              "owner_id": 314833033,
+              "title": "vk stories",
+              "player": "https://static.vk.com/file.jpg",
+              "type": "video",
+              "views": 0,
+              "files": {
+                "mp4_720": "https://static.vk.com/file.jpg"
+              }
+            },
+            "reaction_set_id": "reactions",
+            "is_restricted": false,
+            "no_sound": false,
+            "need_mute": false,
+            "mute_reply": false,
+            "can_ask": 0,
+            "can_ask_anonymous": 0,
+            "preloading_enabled": false
+          },
+          {
+            "id": 456239211,
+            "owner_id": 314833033,
+            "access_key": "XXX",
+            "can_comment": 1,
+            "can_reply": 1,
+            "can_see": 1,
+            "can_like": true,
+            "can_share": 1,
+            "can_hide": 1,
+            "date": 1648568154,
+            "expires_at": 1648654554,
+            "is_ads": false,
+            "replies": {
+              "count": 0,
+              "new": 0
+            },
+            "is_one_time": false,
+            "track_code": "111",
+            "type": "video",
+            "video": {
+              "access_key": "XXX",
+              "can_add": 0,
+              "can_download": 0,
+              "is_private": 1,
+              "date": 1648568153,
+              "description": "",
+              "duration": 15,
+              "image": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 96,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 120,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 240,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 450,
+                  "with_padding": 1
+                }
+              ],
+              "first_frame": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 1422
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 569
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 284
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 231
+                }
+              ],
+              "width": 720,
+              "height": 1280,
+              "id": 456239492,
+              "owner_id": 314833033,
+              "title": "vk stories",
+              "player": "https://static.vk.com/file.jpg",
+              "type": "video",
+              "views": 0,
+              "files": {
+                "mp4_720": "https://static.vk.com/file.jpg"
+              }
+            },
+            "reaction_set_id": "reactions",
+            "is_restricted": false,
+            "no_sound": false,
+            "need_mute": false,
+            "mute_reply": false,
+            "can_ask": 0,
+            "can_ask_anonymous": 0,
+            "preloading_enabled": false
+          },
+          {
+            "id": 456239212,
+            "owner_id": 314833033,
+            "access_key": "XXX",
+            "can_comment": 1,
+            "can_reply": 1,
+            "can_see": 1,
+            "can_like": true,
+            "can_share": 1,
+            "can_hide": 1,
+            "date": 1648568162,
+            "expires_at": 1648654562,
+            "is_ads": false,
+            "replies": {
+              "count": 0,
+              "new": 0
+            },
+            "is_one_time": false,
+            "track_code": "111",
+            "type": "video",
+            "video": {
+              "access_key": "XXX",
+              "can_add": 0,
+              "can_download": 0,
+              "is_private": 1,
+              "date": 1648568161,
+              "description": "",
+              "duration": 15,
+              "image": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 96,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 120,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 240,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 450,
+                  "with_padding": 1
+                }
+              ],
+              "first_frame": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 1422
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 569
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 284
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 231
+                }
+              ],
+              "width": 720,
+              "height": 1280,
+              "id": 456239493,
+              "owner_id": 314833033,
+              "title": "vk stories",
+              "player": "https://static.vk.com/file.jpg",
+              "type": "video",
+              "views": 0,
+              "files": {
+                "mp4_720": "https://static.vk.com/file.jpg"
+              }
+            },
+            "reaction_set_id": "reactions",
+            "is_restricted": false,
+            "no_sound": false,
+            "need_mute": false,
+            "mute_reply": false,
+            "can_ask": 0,
+            "can_ask_anonymous": 0,
+            "preloading_enabled": false
+          },
+          {
+            "id": 456239213,
+            "owner_id": 314833033,
+            "access_key": "XXX",
+            "can_comment": 1,
+            "can_reply": 1,
+            "can_see": 1,
+            "can_like": true,
+            "can_share": 1,
+            "can_hide": 1,
+            "date": 1648568168,
+            "expires_at": 1648654568,
+            "is_ads": false,
+            "replies": {
+              "count": 0,
+              "new": 0
+            },
+            "is_one_time": false,
+            "track_code": "111",
+            "type": "video",
+            "video": {
+              "access_key": "XXX",
+              "can_add": 0,
+              "can_download": 0,
+              "is_private": 1,
+              "date": 1648568166,
+              "description": "",
+              "duration": 12,
+              "image": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 96,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 120,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 240,
+                  "with_padding": 1
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 450,
+                  "with_padding": 1
+                }
+              ],
+              "first_frame": [
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 800,
+                  "height": 1422
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 320,
+                  "height": 569
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 160,
+                  "height": 284
+                },
+                {
+                  "url": "https://static.vk.com/file.jpg",
+                  "width": 130,
+                  "height": 231
+                }
+              ],
+              "width": 720,
+              "height": 1280,
+              "id": 456239494,
+              "owner_id": 314833033,
+              "title": "vk stories",
+              "player": "https://static.vk.com/file.jpg",
+              "type": "video",
+              "views": 0,
+              "files": {
+                "mp4_720": "https://static.vk.com/file.jpg"
+              }
+            },
+            "reaction_set_id": "reactions",
+            "is_restricted": false,
+            "no_sound": false,
+            "need_mute": false,
+            "mute_reply": false,
+            "can_ask": 0,
+            "can_ask_anonymous": 0,
+            "preloading_enabled": false
+          },
+          {
+            "id": 456239214,
+            "owner_id": 314833033,
+            "access_key": "XXX",
+            "can_comment": 1,
+            "can_reply": 1,
+            "can_see": 1,
+            "can_like": true,
+            "can_share": 1,
+            "can_hide": 1,
+            "date": 1648568170,
+            "expires_at": 1648654570,
+            "is_ads": false,
+            "photo": {
+              "album_id": -81,
+              "date": 1648568169,
+              "id": 457292595,
+              "owner_id": 314833033,
+              "sizes": [
+                {
+                  "height": 75,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "s",
+                  "width": 42
+                },
+                {
+                  "height": 130,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "m",
+                  "width": 73
+                },
+                {
+                  "height": 256,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "j",
+                  "width": 144
+                },
+                {
+                  "height": 604,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "x",
+                  "width": 340
+                },
+                {
+                  "height": 807,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "y",
+                  "width": 454
+                },
+                {
+                  "height": 1080,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "z",
+                  "width": 607
+                },
+                {
+                  "height": 1920,
+                  "url": "https://static.vk.com/1920x1080.jpg",
+                  "type": "w",
+                  "width": 1080
+                }
+              ],
+              "text": "",
+              "has_tags": false
+            },
+            "replies": {
+              "count": 0,
+              "new": 0
+            },
+            "is_one_time": false,
+            "track_code": "111",
+            "type": "photo",
+            "reaction_set_id": "reactions",
+            "is_restricted": false,
+            "no_sound": true,
+            "need_mute": false,
+            "mute_reply": false,
+            "can_ask": 0,
+            "can_ask_anonymous": 0,
+            "preloading_enabled": false
+          }
+        ],
+        "has_unseen": true,
+        "name": "Olga"
+      }
+    ],
+    "ads": {
+      "settings": {
+        "interval_type": "stories_and_authors",
+        "stories_interval": 1,
+        "authors_interval": 6,
+        "time_interval": 0,
+        "stories_init": 0,
+        "authors_init": 4,
+        "time_init": 0
+      },
+      "items": []
+    }
+  }
+}

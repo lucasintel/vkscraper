@@ -1,18 +1,20 @@
 package vk
 
-type ResolveScreenNameResponse struct {
-	ObjectID int    `json:"object_id"`
-	Type     string `json:"type"`
+import "fmt"
+
+type ScreenName struct {
+	ID   int    `json:"object_id"`
+	Type string `json:"type"`
 }
 
-func (client *Client) ResolveScreenName(screenName string) (int, error) {
+func (client Client) ResolveScreenName(screenName string) (ScreenName, error) {
 	params := Params{
 		"screen_name": screenName,
 	}
-	resolveScreenNameResponse := ResolveScreenNameResponse{}
-	err := client.performRequest("utils.resolveScreenName", params, &resolveScreenNameResponse)
+	screenNameResponse := ScreenName{}
+	err := client.sendMethod("utils.resolveScreenName", params, &screenNameResponse)
 	if err != nil {
-		return 0, err
+		return screenNameResponse, fmt.Errorf("could not find user: %s, err: %s", screenName, err)
 	}
-	return resolveScreenNameResponse.ObjectID, nil
+	return screenNameResponse, nil
 }

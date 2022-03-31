@@ -2,6 +2,8 @@ package main
 
 import (
 	"bufio"
+	"fmt"
+	"io/ioutil"
 	"os"
 	"regexp"
 	"strings"
@@ -14,10 +16,11 @@ import (
 
 func main() {
 	var (
-		accessToken string
-		fastUpdate  bool
-		batchFile   string
-		users       []string
+		login      string
+		password   string
+		fastUpdate bool
+		batchFile  string
+		users      []string
 	)
 
 	app := cli.App{
@@ -33,14 +36,21 @@ func main() {
 
 	app.UseShortOptionHandling = true
 
+	// TODO: remove this library.
 	app.Flags = []cli.Flag{
 		&cli.StringFlag{
-			Name:        "access-token",
-			Aliases:     []string{"t"},
-			Usage:       "VK API Token. Can also be passed as an environment variable. See: https://vk.com/dev/access_token.",
-			Destination: &accessToken,
-			EnvVars:     []string{"VKSCRAPER_ACCESS_TOKEN"},
+			Name:        "login",
+			Aliases:     []string{"l"},
+			Usage:       "VK username",
+			Destination: &login,
 			Required:    true,
+		},
+		&cli.StringFlag{
+			Name:        "password",
+			Aliases:     []string{"p"},
+			Usage:       "VK password",
+			Destination: &password,
+			Required:    false,
 		},
 		&cli.BoolFlag{
 			Name:        "fast-update",
@@ -86,8 +96,38 @@ func main() {
 			users = append(users, user)
 		}
 
-		client := vk.NewClient(accessToken)
+		client := vk.NewClient()
+
+		// TODO: Refactor
+		sessionFilename := login + ".vksession"
+		sessionFileBuffer, _ := ioutil.ReadFile(sessionFilename)
+		sessionFileData := strings.TrimSpace(string(sessionFileBuffer))
+		if sessionFileData == "" {
+			if password == "" {
+				fmt.Fprintf(os.Stderr, "Session file not found. Please provide a password\n")
+				os.Exit(1)
+			}
+			err := client.Login(login, password)
+			if err != nil {
+				fmt.Fprintf(os.Stderr, "Could not login: %v\n", err)
+				os.Exit(1)
+			}
+			sessionFile, err := os.Create(sessionFilename)
+			if err != nil {
+				fmt.Fprintf(os.Stderr, "Could create session file: %v\n", err)
+				os.Exit(1)
+			}
+			sessionFile.WriteString(client.AccessToken)
+			sessionFile.Close()
+			fmt.Printf("Saved session to %s\n", sessionFilename)
+		} else {
+			fmt.Printf("Loaded session from %s\n", sessionFilename)
+			client.SetAccessToken(sessionFileData)
+		}
+		fmt.Println("Successfully logged in")
+
 		currentDir := "."
+		// TODO: Refactor
 		config := vkscraper.Config{
 			FastUpdate: fastUpdate,
 			BaseDir:    currentDir,
@@ -100,6 +140,7 @@ func main() {
 
 	err := app.Run(os.Args)
 	if err != nil {
-		panic(err)
+		fmt.Fprintf(os.Stderr, "\nERROR: %s\n", err)
+		os.Exit(1)
 	}
 }

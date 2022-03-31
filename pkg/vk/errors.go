@@ -8,60 +8,10 @@ import (
 // VK error codes as specified on documentation.
 // See: https://vk.com/dev/errors
 const (
-	UnknownError                                          = 1
-	ApplicationDisabledError                              = 2
-	UnknownMethodError                                    = 3
-	IncorrectSignatureError                               = 4
-	UserAuthorizationFailedError                          = 5
-	TooManyRequestsError                                  = 6
-	PermissionDeniedError                                 = 7
-	InvalidRequestError                                   = 8
-	FloodControlError                                     = 9
-	InternalServerError                                   = 10
-	TestModeError                                         = 11
-	CaptchaNeededError                                    = 14
-	AccessDeniedError                                     = 15
-	HTTPAuthorizationFailedError                          = 16
-	ValidationRequiredError                               = 17
-	UserDeletedOrBannedError                              = 18
-	PermissionDeniedForNonStandaloneAppsError             = 20
-	PermissionAllowedOnlyForStandaloneAndOpenAPIAppsError = 21
-	MethodDisabledError                                   = 23
-	ConfirmationRequiredError                             = 24
-	GroupAuthorizationFailedError                         = 27
-	ApplicationAuthorizationFailedError                   = 28
-	RateLimitReachedError                                 = 29
-	PrivateProfileError                                   = 30
-	NotImplementedError                                   = 33
-	ClientVersionDeprecatedError                          = 34
-	UserBannedError                                       = 37
-	UnknownApplicationError                               = 38
-	UnknownUserError                                      = 39
-	UnknownGroupError                                     = 40
-	AdditionalSignupRequired                              = 41
-	IPNotAllowedError                                     = 42
-	MissingOrInvalidParametersError                       = 100
-	InvalidApiIdError                                     = 101
-	InvalidUserIdError                                    = 113
-	InvalidTimestampError                                 = 150
-	AlbumAccessDeniedError                                = 200
-	AudioAccessDeniedError                                = 201
-	GroupAccessDeniedError                                = 203
-	FullAlbumError                                        = 300
-	VotesProcessingDisabledError                          = 500
-	NoAccessToOperationSpecifiedError                     = 600
-	AdsError                                              = 603
-	AnonymousTokenExpiredError                            = 1114
-	AnonymousTokenInvalidError                            = 1116
-	RecaptchaNeededError                                  = 3300
-	PhoneValidationNeededError                            = 3301
-	PasswordValidationNeededError                         = 3302
-	OtpAppValidationNeededError                           = 3303
-	EmailConfirmationNeededError                          = 3304
-	AssertVotesError                                      = 3605
-	TokenExtensionRequiredError                           = 3609
-	UserDeactivatedError                                  = 3610
-	ServiceDeactivatedForUserError                        = 3611
+	TooManyRequestsError = 6
+	UserDeactivatedError = 15
+	PrivateProfileError  = 30
+	InvalidParamsError   = 100
 )
 
 type VkHttpError struct {
@@ -81,10 +31,10 @@ func (e VkApiError) Error() string {
 	return e.Message
 }
 
-type TooManyRequestsClientError struct {
+type InstanceRateLimitedError struct {
 	Remaining time.Duration
 }
 
-func (e TooManyRequestsClientError) Error() string {
+func (e InstanceRateLimitedError) Error() string {
 	return fmt.Sprintf("Too many requests; please wait %s", e.Remaining)
 }

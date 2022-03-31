@@ -1,0 +1,2391 @@
+{
+  "response": {
+    "count": 51,
+    "items": [
+      {
+        "adding_date": 1644932218,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 91,
+        "date": 1645284637,
+        "description": "",
+        "duration": 10684,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 480,
+            "height": 270
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 240,
+            "height": 135
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 128,
+            "height": 72
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "width": 1920,
+        "height": 1080,
+        "id": 456239308,
+        "owner_id": -35005,
+        "ov_id": "3583367392113",
+        "title": "IV Национальная премия в области веб-индустрии",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 1153283,
+        "live_status": "finished",
+        "likes": {
+          "count": 280,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 36,
+          "user_reposted": 0
+        },
+        "files": {
+          "mp4_144": "https://static.vk.com/144.mp4",
+          "mp4_240": "https://static.vk.com/240.mp4",
+          "mp4_360": "https://static.vk.com/360.mp4",
+          "mp4_480": "https://static.vk.com/480.mp4",
+          "mp4_720": "https://static.vk.com/720.mp4",
+          "mp4_1080": "https://static.vk.com/1080.mp4",
+          "hls": "https://static.vk.com/file.jpg",
+          "dash_uni": "https://static.vk.com/file.jpg",
+          "dash_sep": "https://static.vk.com/file.jpg",
+          "dash_webm": "https://static.vk.com/file.jpg",
+          "failover_host": "vkvd172.mycdn.me"
+        },
+        "trailer": {
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1634905679,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 0,
+        "date": 1634905667,
+        "description": "",
+        "duration": 51,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 480,
+            "height": 270
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 240,
+            "height": 135
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 128,
+            "height": 72
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "width": 1920,
+        "height": 1080,
+        "id": 456239303,
+        "owner_id": -35005,
+        "ov_id": "3150579443855",
+        "title": "VK Sport Team",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 6221,
+        "likes": {
+          "count": 62,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 2,
+          "user_reposted": 0
+        },
+        "files": {
+          "mp4_144": "https://static.vk.com/file.jpg",
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg",
+          "dash_uni": "https://static.vk.com/file.jpg",
+          "dash_sep": "https://static.vk.com/file.jpg",
+          "dash_webm": "https://static.vk.com/file.jpg",
+          "failover_host": "vkvd129.mycdn.me"
+        },
+        "trailer": {
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg"
+        },
+        "timeline_thumbs": {
+          "count_per_image": 9,
+          "count_per_row": 3,
+          "count_total": 51,
+          "frame_height": 180,
+          "frame_width": 320.000000,
+          "links": [
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg"
+          ],
+          "is_uv": true,
+          "frequency": 1
+        }
+      },
+      {
+        "adding_date": 1634894063,
+        "can_comment": 0,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 1,
+        "date": 1635321540,
+        "description": "Конференция VK. Просто о новом.\n\nВы можете задать ваши вопросы спикерам через форму на сайте innovationday.ru.",
+        "duration": 4223,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 90
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 73
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450
+          }
+        ],
+        "width": 1920,
+        "height": 1080,
+        "id": 456239300,
+        "owner_id": -35005,
+        "ov_id": "3680445803378",
+        "title": "Innovation Day",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 832176,
+        "live_status": "finished",
+        "likes": {
+          "count": 108,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 5,
+          "user_reposted": 0
+        },
+        "files": {
+          "mp4_144": "https://static.vk.com/file.jpg",
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg",
+          "dash_uni": "https://static.vk.com/file.jpg",
+          "dash_sep": "https://static.vk.com/file.jpg",
+          "dash_webm": "https://static.vk.com/file.jpg",
+          "failover_host": "vkvd12.mycdn.me"
+        },
+        "trailer": {
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1634647919,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 1,
+        "date": 1634647910,
+        "description": "",
+        "duration": 20,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 480,
+            "height": 270
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 240,
+            "height": 135
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 128,
+            "height": 72
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "width": 1920,
+        "height": 1080,
+        "id": 456239299,
+        "owner_id": -35005,
+        "ov_id": "2762711640217",
+        "title": "VK Video",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "repeat": 1,
+        "type": "video",
+        "views": 489,
+        "likes": {
+          "count": 4,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 0,
+          "user_reposted": 0
+        },
+        "files": {
+          "mp4_144": "https://static.vk.com/file.jpg",
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg",
+          "dash_uni": "https://static.vk.com/file.jpg",
+          "dash_sep": "https://static.vk.com/file.jpg",
+          "failover_host": "vkvd97.mycdn.me"
+        },
+        "timeline_thumbs": {
+          "count_per_image": 9,
+          "count_per_row": 3,
+          "count_total": 21,
+          "frame_height": 180,
+          "frame_width": 320.000000,
+          "links": [
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg"
+          ],
+          "is_uv": true,
+          "frequency": 1
+        }
+      },
+      {
+        "adding_date": 1634210792,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 0,
+        "date": 1634200786,
+        "description": "",
+        "duration": 49,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 640
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 360
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 360
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 480,
+            "height": 240
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 240,
+            "height": 120
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 128,
+            "height": 64
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 640
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 640
+          }
+        ],
+        "width": 3840,
+        "height": 1920,
+        "id": 456239296,
+        "owner_id": -35005,
+        "ov_id": "3277524838448",
+        "title": "Ничего Страшного",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "repeat": 1,
+        "type": "video",
+        "views": 7778,
+        "likes": {
+          "count": 36,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 6,
+          "user_reposted": 0
+        },
+        "files": {
+          "mp4_144": "https://static.vk.com/file.jpg",
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg",
+          "dash_uni": "https://static.vk.com/file.jpg",
+          "dash_sep": "https://static.vk.com/file.jpg",
+          "failover_host": "vkvd46.mycdn.me"
+        },
+        "trailer": {
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg"
+        },
+        "timeline_thumbs": {
+          "count_per_image": 9,
+          "count_per_row": 3,
+          "count_total": 50,
+          "frame_height": 160,
+          "frame_width": 320.000000,
+          "links": [
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg"
+          ],
+          "is_uv": true,
+          "frequency": 1
+        }
+      },
+      {
+        "adding_date": 1634120135,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 0,
+        "date": 1634120131,
+        "description": "",
+        "duration": 60,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 480,
+            "height": 270
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 240,
+            "height": 135
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 128,
+            "height": 72
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "width": 1920,
+        "height": 1080,
+        "id": 456239294,
+        "owner_id": -35005,
+        "ov_id": "2606232840411",
+        "title": "Мы теперь VK",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 39053,
+        "likes": {
+          "count": 115,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 13,
+          "user_reposted": 0
+        },
+        "files": {
+          "mp4_144": "https://static.vk.com/file.jpg",
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg",
+          "dash_uni": "https://static.vk.com/file.jpg",
+          "dash_sep": "https://static.vk.com/file.jpg",
+          "failover_host": "vkvd107.mycdn.me"
+        },
+        "trailer": {
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg"
+        },
+        "timeline_thumbs": {
+          "count_per_image": 9,
+          "count_per_row": 3,
+          "count_total": 61,
+          "frame_height": 180,
+          "frame_width": 320.000000,
+          "links": [
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg"
+          ],
+          "is_uv": true,
+          "frequency": 1
+        }
+      },
+      {
+        "adding_date": 1633689034,
+        "can_comment": 0,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 0,
+        "date": 1634025300,
+        "description": "",
+        "duration": 1357,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 90
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 73
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450
+          }
+        ],
+        "width": 1920,
+        "height": 1080,
+        "id": 456239289,
+        "owner_id": -35005,
+        "ov_id": "3116477131526",
+        "title": "Новостная трансляция 12 октября",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 107956,
+        "live_status": "finished",
+        "likes": {
+          "count": 626,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 259,
+          "user_reposted": 0
+        },
+        "files": {
+          "mp4_144": "https://static.vk.com/file.jpg",
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg",
+          "dash_uni": "https://static.vk.com/file.jpg",
+          "dash_sep": "https://static.vk.com/file.jpg",
+          "failover_host": "vkvd183.mycdn.me"
+        },
+        "trailer": {
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1614167894,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 12,
+        "date": 1614866229,
+        "description": "На очередной встрече дискуссионного клуба «DI club» поговорим о развитии культуры счастья в компаниях и расскажем как фокус на благополучии сотрудников делает бизнес эффективнее. https:\/\/corp.mail.ru\/ru\/press\/events\/807\/",
+        "duration": 7338,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1279,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2305
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 480,
+            "height": 270
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 240,
+            "height": 135
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 128,
+            "height": 72
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "width": 1920,
+        "height": 1080,
+        "id": 456239238,
+        "owner_id": -35005,
+        "ov_id": "2502931196751",
+        "title": "Культура счастья. Что делает компании успешнее?",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 4874,
+        "live_status": "finished",
+        "likes": {
+          "count": 20,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 12,
+          "user_reposted": 0
+        },
+        "files": {
+          "mp4_144": "https://static.vk.com/file.jpg",
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg",
+          "dash_uni": "https://static.vk.com/file.jpg",
+          "dash_sep": "https://static.vk.com/file.jpg",
+          "failover_host": "vkvd225.mycdn.me"
+        },
+        "trailer": {
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1605616999,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 0,
+        "date": 1607090133,
+        "description": "Эксперты в области управления персоналом и внутренних коммуникаций расскажут, какие инструменты и лайфхаки помогут сотрудникам свободно и эффективно плавать в инфопотоках как на работе, так и в обычной жизни.\n\nhttps:\/\/tech.mail.ru\/product\/digital-insider",
+        "duration": 5883,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 672
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 378
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 538
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2150
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 90
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 73
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450
+          }
+        ],
+        "width": 1920,
+        "height": 1080,
+        "id": 456239185,
+        "owner_id": -35005,
+        "title": "Лайфхаки цифровых коммуникаций для сохранения эффективности бизнеса",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 1046,
+        "live_status": "finished",
+        "likes": {
+          "count": 0,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 1,
+          "user_reposted": 0
+        },
+        "files": {
+          "external": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1615809352,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 0,
+        "comments": 0,
+        "date": 1615809352,
+        "description": "Открытый онлайн-диалог, где предприниматели и топ-менеджеры крупных компаний обсудят, как устроено современное бизнес-образование в России, кому и зачем оно нужно, и как успешным лидерам угнаться за постоянно меняющимися требованиями рынка",
+        "duration": 7326,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          }
+        ],
+        "id": 456239246,
+        "owner_id": -35005,
+        "title": "Бизнес-образование для лидеров изменений",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 78,
+        "local_views": 78,
+        "platform": "YouTube",
+        "likes": {
+          "count": 13,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 1,
+          "user_reposted": 0
+        },
+        "files": {
+          "external": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1593521993,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 12,
+        "date": 1594799764,
+        "description": "Первый проект в рамках этой программы ориентирован на Дальний Восток и Арктику. Борис Добродеев, Игорь Шувалов и Алексей Чекунков рассказывают детали: сколько выделяется средств на проект, как их получить предпринимателям и как проект поможет бизнесу. Мини-приложение проекта: https:\/\/vk.com\/app7515744",
+        "duration": 1300,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 90
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 73
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450
+          }
+        ],
+        "width": 1920,
+        "height": 1080,
+        "id": 456239166,
+        "owner_id": -35005,
+        "title": "Развивай.рф | бизнес онлайн: запуск программы поддержки малого бизнеса от Mail.ru Group, ВЭБ.РФ и ФРДВ",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 5959,
+        "live_status": "finished",
+        "likes": {
+          "count": 67,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 0,
+          "user_reposted": 0
+        },
+        "files": {
+          "external": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1592835185,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 25,
+        "date": 1593671198,
+        "description": "Выход на Московскую биржу — знаковое событие для Mail.ru Group, и мы будем рады разделить его с вами. В церемонии участвуют генеральный директор Mail.ru Group Борис Добродеев и председатель правления Московской биржи Юрий Денисов.",
+        "duration": 2205,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 90
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 73
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450
+          }
+        ],
+        "width": 1920,
+        "height": 1080,
+        "id": 456239164,
+        "owner_id": -35005,
+        "ov_id": "1715304343674",
+        "title": "Церемония начала торгов Mail.ru Group на Московской бирже",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 6415,
+        "live_status": "finished",
+        "likes": {
+          "count": 81,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 4,
+          "user_reposted": 0
+        },
+        "files": {
+          "mp4_144": "https://static.vk.com/file.jpg",
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg",
+          "dash_uni": "https://static.vk.com/file.jpg",
+          "dash_sep": "https://static.vk.com/file.jpg",
+          "failover_host": "vkvd186.mycdn.me"
+        },
+        "trailer": {
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "mp4_1080": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1559148191,
+        "can_comment": 0,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 165,
+        "date": 1559206621,
+        "description": "",
+        "duration": 4806,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1279,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2305
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 90
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 73
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450
+          }
+        ],
+        "width": 1280,
+        "height": 720,
+        "id": 456239121,
+        "owner_id": -35005,
+        "title": "Игровое направление Mail.ru Group",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 13190,
+        "live_status": "finished",
+        "likes": {
+          "count": 146,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 1,
+          "user_reposted": 0
+        },
+        "files": {
+          "external": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg"
+        },
+        "timeline_thumbs": {
+          "count_per_image": 100,
+          "count_per_row": 10,
+          "count_total": 480,
+          "frame_height": 200,
+          "frame_width": 356.000000,
+          "links": [
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg",
+            "https://static.vk.com/file.jpg"
+          ],
+          "is_uv": false,
+          "frequency": 0
+        }
+      },
+      {
+        "adding_date": 1559135705,
+        "can_comment": 0,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 34,
+        "date": 1559231428,
+        "description": "",
+        "duration": 9749,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 90
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 4096,
+            "height": 2304
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 73
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 720,
+            "height": 405
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1024,
+            "height": 576
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450
+          }
+        ],
+        "width": 1280,
+        "height": 720,
+        "id": 456239120,
+        "owner_id": -35005,
+        "ov_id": "2935193872528",
+        "title": "PechaKucha Moscow + Mail.ru Group: добро и технологии",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 53966,
+        "live_status": "finished",
+        "likes": {
+          "count": 92,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 10,
+          "user_reposted": 0
+        },
+        "files": {
+          "mp4_144": "https://static.vk.com/file.jpg",
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg",
+          "dash_uni": "https://static.vk.com/file.jpg",
+          "dash_sep": "https://static.vk.com/file.jpg",
+          "failover_host": "vkvd223.mycdn.me"
+        },
+        "trailer": {
+          "mp4_240": "https://static.vk.com/file.jpg",
+          "mp4_360": "https://static.vk.com/file.jpg",
+          "mp4_480": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1542308706,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 1,
+        "comments": 26,
+        "date": 1542351532,
+        "description": "",
+        "duration": 29695,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "first_frame": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 90
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 74
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 800,
+            "height": 450
+          }
+        ],
+        "width": 1920,
+        "height": 1080,
+        "id": 456239102,
+        "owner_id": -35005,
+        "title": "FuturEcommerce 2018 by Mail.Ru Group — прямая трансляция",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 19117,
+        "live_status": "finished",
+        "likes": {
+          "count": 78,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 3,
+          "user_reposted": 0
+        },
+        "files": {
+          "external": "https://static.vk.com/file.jpg",
+          "mp4_720": "https://static.vk.com/file.jpg",
+          "hls": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1514376853,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 0,
+        "comments": 1,
+        "date": 1514376853,
+        "description": "\"Как я стал разработчиком ВКонтакте в 16 лет\" - История самого молодого сотрудника Mail.Ru Group от первого лица.\n\nВ новом интервью мы поговорили с разработчиком бизнес-продуктов ВКонтакте Севой Жидковым и обсудили развитие технологий, будущее программирования и как обрабатываются данные 100 миллионов пользователей. Также Сева поделился, какие цели нужно ставить перед собой, чтобы создавать успешные и современные продукты, а также как попасть на стажировку в Вконтакте.",
+        "duration": 1722,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 640,
+            "height": 480,
+            "with_padding": 1
+          }
+        ],
+        "id": 456239058,
+        "owner_id": -35005,
+        "title": "Как я стал разработчиком ВКонтакте в 16 лет OH, MY CODE #8",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 371,
+        "local_views": 371,
+        "platform": "YouTube",
+        "likes": {
+          "count": 52,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 0,
+          "user_reposted": 0
+        },
+        "files": {
+          "external": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1509719073,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 0,
+        "comments": 0,
+        "date": 1509719073,
+        "description": "Есть вариант получить терабайт в Облаке и рюкзак. Подробности — в конце видео.",
+        "duration": 1697,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 640,
+            "height": 480,
+            "with_padding": 1
+          }
+        ],
+        "id": 456239056,
+        "owner_id": -35005,
+        "title": "Как сделано Облако, почему Perl не умер и что такое хороший программист",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 193,
+        "local_views": 193,
+        "platform": "YouTube",
+        "likes": {
+          "count": 23,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 0,
+          "user_reposted": 0
+        },
+        "files": {
+          "external": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1504612521,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 0,
+        "comments": 0,
+        "date": 1504612521,
+        "description": "",
+        "duration": 110,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 640,
+            "height": 480,
+            "with_padding": 1
+          }
+        ],
+        "id": 456239054,
+        "owner_id": -35005,
+        "title": "Новый онлайн-курс по PYTHON на Coursera",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 261,
+        "local_views": 261,
+        "platform": "YouTube",
+        "likes": {
+          "count": 28,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 0,
+          "user_reposted": 0
+        },
+        "files": {
+          "external": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1504529453,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 0,
+        "comments": 0,
+        "date": 1504529453,
+        "description": "Мы приготовили для вас видеоотчет о прошедшем фестивале WARFEST. ",
+        "duration": 135,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 640,
+            "height": 480,
+            "with_padding": 1
+          }
+        ],
+        "id": 456239053,
+        "owner_id": -35005,
+        "title": "Warface: отчетный ролик фестиваля WARFEST",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 155,
+        "local_views": 155,
+        "platform": "YouTube",
+        "likes": {
+          "count": 17,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 0,
+          "user_reposted": 0
+        },
+        "files": {
+          "external": "https://static.vk.com/file.jpg"
+        }
+      },
+      {
+        "adding_date": 1504179492,
+        "can_comment": 1,
+        "can_like": 1,
+        "can_repost": 1,
+        "can_subscribe": 1,
+        "can_add_to_faves": 1,
+        "can_add": 1,
+        "can_download": 0,
+        "comments": 0,
+        "date": 1504179491,
+        "description": "Смотрите трансляцию об образовательных проектах 1 сентября: https:\/\/habrahabr.ru\/company\/mailru\/blog\/336800\/",
+        "duration": 29,
+        "image": [
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 130,
+            "height": 96,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 160,
+            "height": 120,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 320,
+            "height": 240,
+            "with_padding": 1
+          },
+          {
+            "url": "https://static.vk.com/file.jpg",
+            "width": 640,
+            "height": 480,
+            "with_padding": 1
+          }
+        ],
+        "id": 456239052,
+        "owner_id": -35005,
+        "title": "Поздравляем преподавателей Технопроектов. Спасибо за знания!",
+        "is_favorite": false,
+        "player": "https://static.vk.com/file.jpg",
+        "added": 0,
+        "is_subscribed": 0,
+        "type": "video",
+        "views": 120,
+        "local_views": 120,
+        "platform": "YouTube",
+        "likes": {
+          "count": 15,
+          "user_likes": 0
+        },
+        "reposts": {
+          "count": 0,
+          "user_reposted": 0
+        },
+        "files": {
+          "external": "https://static.vk.com/file.jpg"
+        }
+      }
+    ],
+    "groups": [
+      {
+        "id": 35005,
+        "name": "VK",
+        "screen_name": "insidevk",
+        "is_closed": 0,
+        "type": "page",
+        "is_admin": 0,
+        "is_member": 0,
+        "is_advertiser": 0,
+        "photo_50": "https://static.vk.com/file.jpg",
+        "photo_100": "https://static.vk.com/file.jpg",
+        "photo_200": "https://static.vk.com/file.jpg"
+      }
+    ]
+  }
+}

@@ -1,8 +1,5 @@
 # vkscraper
 
-> **vkscraper** is in its very early alpha stage. The public interface is
-> subject to changes and will likely be entirely refactored.
-
 Download posts, photos, and videos along with their captions and other metadata
 from ВКонтакте.
 
@@ -15,73 +12,94 @@ from ВКонтакте.
  - JSON metadata is stored alongside the media.
  - Batch file, cronjob friendly.
 
-## Roadmap
-
- - Better error handling; retry on connection error.
- - Extract comments from posts and media.
- - Schedule integration tests on Github Actions.
-
 ## Usage
 
-### Getting an Access Token
+### Authentication
 
-All following examples will assume that you pass an `--access-token` or set
-`VKSCRAPER_ACCESS_TOKEN` environment variable.
+```
+$ vkscraper --login=MyUsername [...]
+```
 
-See: https://vk.com/dev/access_token.
+When logging in, **vkscraper** stores the access token in a file called
+`./MyUsername.vksession`, which will be reused later the next time `--login` is
+given.
+
+Do not delete the session file, logging in is an expensive operation.
 
 ### Downloading users and communities
 
 ```sh
-$ vkscraper --stories --no-photos insidevk
+$ vkscraper --login=MyUsername insidevk
 ```
 
-By default, only photos are downloaded.
+By default, all available content is downloaded.
 
- - Download stories: `--stories`.
+ - Do not download stories: `--no-stories`.
  - Do not download photos: `--no-photos`.
- - Download videos: `--videos`.
- - Download posts (text and attached photos): `--posts`.
+ - Do not download videos: `--no-videos`.
+ - Do not download posts (text and attached photos): `--no-posts`.
 
 ### Batch file
 
-vkscraper can read user profiles and communities from a file. Lines starting
+**vkscraper** can read user profiles and communities from a file. Lines starting
 with an `#` or empty lines are considered as comments and ignored. Inline
 comments are also ignored.
 
-Given `batch.txt`:
+Given `DataHoarder.txt`:
 
 ```sh
-# ВКонтакте official account
+# Official VK community.
 insidevk
 
-99999 # inline comment 1
-88888 # inline comment 2
+klavdiacoca # Inline comment 1; Клава Кока; profile
+klavacoca   # Inline comment 2; Клава Кока; community
 ```
 
-Download posts, photos, videos and stories:
+Download stories, photos, videos and posts:
 
 ```sh
-$ vkscraper --batch-file batch.txt
+$ vkscraper --login=MyUsername --batch-file=DataHoarder.txt
 ```
 
 ### Fast update
 
 For each target, stop when encountering the first already-downloaded resource.
-This option is recommended when you use vkscraper to update your personal
+This option is recommended when you use **vkscraper** to update your personal
 archive.
 
 This option was taken from Instaloader.
 
 ```sh
-$ vkscraper --stories --videos --posts --fast-update insidevk
+$ vkscraper --login=MyUsername --fast-update insidevk
+```
 
-Retrieving stories from profile "insidevk".
-[1/1] insidevk/stories/111111111.jpg exists
-Retrieving photos from profile "insidevk".
-[1/745] insidevk/photos/222222222.jpg exists
-Retrieving videos from profile "insidevk".
-[1/1] insidevk/videos/333333333.mp4 exists
-Retrieving posts from profile "insidevk".
-[1/1] insidevk/posts/4444.json exists
+## API
+
+**vkscraper** is not meant to be a comprehensive API client for VK. The
+functions and structures used internally may be imported as a library.
+
+```go
+import "github.com/kandayo/vkscraper/pkg/vk"
+
+vk := vk.NewClient()
+
+// Login with a username and password.
+vk.Login("username", "password")
+// Or set an access token.
+vk.SetAccessToken("token")
+
+// Find the user or community id.
+user, err := vk.Utils.ResolveScreenName("klavacoca")
+
+// Retrieve the user stories feed.
+stories, err := vk.Stories.Get(user.ID)
+
+perPage := 100
+initialOffset := 0
+
+// Retrieve the user photos.
+stories, err := vk.Photos.GetAll(user.ID, perPage, initialOffset)
+
+// Retrieve the user videos.
+stories, err := vk.Videos.Get(user.ID, perPage, initialOffset)
 ```

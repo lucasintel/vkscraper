@@ -10,12 +10,18 @@ import (
 func TestNewClient(t *testing.T) {
 	t.Parallel()
 
-	client := vk.NewClient("token")
+	client := vk.NewClient()
+	assert.Equal(t, client.AccessToken, "")
+	assert.Equal(t, client.BaseUrl, "api.vk.com")
+	assert.Equal(t, client.Version, "5.131")
+	assert.Equal(t, client.Language, "ru")
+	assert.Equal(t, client.UserAgent, "com.vk.vkclient/859 (iPhone; iOS 15.4; Scale/3.00)")
+}
 
-	assert := assert.New(t)
-	assert.Equal(client.AccessToken, "token")
-	assert.Equal(client.BaseUrl, "api.vk.com")
-	assert.Equal(client.Version, "5.131")
-	assert.Equal(client.Language, "ru")
-	assert.Equal(client.UserAgent, "vkscraper/1.0 (+https://github.com/kandayo/vkscraper)")
+func TestClientSetAccessToken(t *testing.T) {
+	t.Parallel()
+
+	client := vk.NewClient()
+	client.SetAccessToken("token")
+	assert.Equal(t, "token", client.AccessToken)
 }

@@ -1,0 +1,4 @@
+{
+  "error": "invalid_request",
+  "error_description": "Too many invalid requests per 15 seconds"
+}

@@ -1,0 +1,32 @@
+{
+  "error": {
+    "error_code": 30,
+    "error_msg": "This profile is private",
+    "request_params": [
+      {
+        "key": "v",
+        "value": "5.131"
+      },
+      {
+        "key": "owner_id",
+        "value": "112"
+      },
+      {
+        "key": "count",
+        "value": "1"
+      },
+      {
+        "key": "extended",
+        "value": "1"
+      },
+      {
+        "key": "method",
+        "value": "video.get"
+      },
+      {
+        "key": "oauth",
+        "value": "1"
+      }
+    ]
+  }
+}

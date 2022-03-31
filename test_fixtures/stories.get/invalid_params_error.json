@@ -1,0 +1,24 @@
+{
+  "error": {
+    "error_code": 100,
+    "error_msg": "One of the parameters specified was missing or invalid: owner_id not integer",
+    "request_params": [
+      {
+        "key": "v",
+        "value": "5.131"
+      },
+      {
+        "key": "owner_id",
+        "value": "asd"
+      },
+      {
+        "key": "method",
+        "value": "stories.get"
+      },
+      {
+        "key": "oauth",
+        "value": "1"
+      }
+    ]
+  }
+}

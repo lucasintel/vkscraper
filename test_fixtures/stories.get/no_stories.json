@@ -1,0 +1,18 @@
+{
+  "response": {
+    "count": 0,
+    "items": [],
+    "ads": {
+      "settings": {
+        "interval_type": "stories_and_authors",
+        "stories_interval": 1,
+        "authors_interval": 6,
+        "time_interval": 0,
+        "stories_init": 0,
+        "authors_init": 4,
+        "time_init": 0
+      },
+      "items": []
+    }
+  }
+}

@@ -1,7 +1,7 @@
 package vk_test
 
 import (
-	"net/http"
+	"io/ioutil"
 	"testing"
 
 	"github.com/jarcoal/httpmock"
@@ -9,48 +9,34 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func TestResolveScreenNameError(t *testing.T) {
+func TestResolveScreenNameNotFound(t *testing.T) {
 	httpmock.Activate()
 	defer httpmock.DeactivateAndReset()
 
-	vkResponse := vk.Response{
-		Error: vk.ResponseError{
-			Code:    vk.TooManyRequestsError,
-			Message: "Too many requests per second",
-		},
-	}
+	fixtureBuffer, _ := ioutil.ReadFile("../../test_fixtures/utils.resolveScreenName/not_found.json")
+	fixtureData := string(fixtureBuffer)
 	httpmock.RegisterResponder("GET", "https://api.vk.com/method/utils.resolveScreenName",
-		func(req *http.Request) (*http.Response, error) {
-			return httpmock.NewJsonResponse(200, vkResponse)
-		},
-	)
+		httpmock.NewStringResponder(200, fixtureData))
 
-	client := vk.NewClient("token")
-	_, err := client.ResolveScreenName("charlidamelio")
+	client := vk.NewClient()
+	_, err := client.ResolveScreenName("klavdiacoca")
 
-	expectedError := vk.VkApiError{Code: vk.TooManyRequestsError, Message: "Too many requests per second"}
-	assert.Equal(t, err, expectedError)
+	assert.NotNil(t, err)
 }
 
 func TestResolveScreenNameSuccess(t *testing.T) {
 	httpmock.Activate()
 	defer httpmock.DeactivateAndReset()
 
-	vkResponse := vk.Response{
-		Response: vk.ResolveScreenNameResponse{
-			ObjectID: 99,
-			Type:     "user",
-		},
-	}
+	fixtureBuffer, _ := ioutil.ReadFile("../../test_fixtures/utils.resolveScreenName/success.json")
+	fixtureData := string(fixtureBuffer)
 	httpmock.RegisterResponder("GET", "https://api.vk.com/method/utils.resolveScreenName",
-		func(req *http.Request) (*http.Response, error) {
-			return httpmock.NewJsonResponse(200, vkResponse)
-		},
-	)
+		httpmock.NewStringResponder(200, fixtureData))
 
-	client := vk.NewClient("token")
-	userID, err := client.ResolveScreenName("charlidamelio")
+	client := vk.NewClient()
+	screenName, err := client.ResolveScreenName("klavdiacoca")
 
 	assert.Nil(t, err)
-	assert.Equal(t, userID, 99)
+	assert.Equal(t, 15594498, screenName.ID)
+	assert.Equal(t, "user", screenName.Type)
 }

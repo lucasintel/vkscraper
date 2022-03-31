@@ -1,0 +1,193 @@
+{
+  "response": {
+    "count": 1,
+    "items": [
+      {
+        "type": "stories",
+        "id": "444",
+        "stories": [
+          {
+            "id": 456239124,
+            "owner_id": -43970955,
+            "access_key": "story",
+            "can_comment": 0,
+            "can_reply": 1,
+            "can_see": 1,
+            "can_like": true,
+            "can_share": 1,
+            "can_hide": 1,
+            "date": 1648549795,
+            "expires_at": 1648636195,
+            "is_ads": false,
+            "photo": {
+              "album_id": -81,
+              "date": 1648549794,
+              "id": 457242545,
+              "owner_id": -43970955,
+              "sizes": [
+                {
+                  "height": 75,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "s",
+                  "width": 42
+                },
+                {
+                  "height": 130,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "m",
+                  "width": 73
+                },
+                {
+                  "height": 256,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "j",
+                  "width": 144
+                },
+                {
+                  "height": 604,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "x",
+                  "width": 340
+                },
+                {
+                  "height": 807,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "y",
+                  "width": 454
+                },
+                {
+                  "height": 1080,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "z",
+                  "width": 607
+                },
+                {
+                  "height": 1920,
+                  "url": "https://static.vk.com/1920x1080.jpg",
+                  "type": "w",
+                  "width": 1080
+                }
+              ],
+              "text": "",
+              "user_id": 100,
+              "has_tags": false
+            },
+            "replies": {
+              "count": 0,
+              "new": 0
+            },
+            "seen": 1,
+            "is_one_time": false,
+            "track_code": "111",
+            "type": "photo",
+            "reaction_set_id": "reactions",
+            "is_restricted": false,
+            "no_sound": false,
+            "need_mute": false,
+            "mute_reply": false,
+            "can_ask": 0,
+            "can_ask_anonymous": 0,
+            "preloading_enabled": true
+          },
+          {
+            "id": 456239125,
+            "owner_id": -43970955,
+            "access_key": "story",
+            "can_comment": 0,
+            "can_reply": 1,
+            "can_see": 1,
+            "can_like": true,
+            "can_share": 1,
+            "can_hide": 1,
+            "date": 1648575106,
+            "expires_at": 1648661506,
+            "is_ads": false,
+            "photo": {
+              "album_id": -81,
+              "date": 1648575105,
+              "id": 457242550,
+              "owner_id": -43970955,
+              "sizes": [
+                {
+                  "height": 75,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "s",
+                  "width": 42
+                },
+                {
+                  "height": 130,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "m",
+                  "width": 73
+                },
+                {
+                  "height": 256,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "j",
+                  "width": 144
+                },
+                {
+                  "height": 604,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "x",
+                  "width": 339
+                },
+                {
+                  "height": 807,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "y",
+                  "width": 454
+                },
+                {
+                  "height": 1080,
+                  "url": "https://static.vk.com/file.jpg",
+                  "type": "z",
+                  "width": 607
+                },
+                {
+                  "height": 1920,
+                  "url": "https://static.vk.com/1920x1079.jpg",
+                  "type": "w",
+                  "width": 1079
+                }
+              ],
+              "text": "",
+              "user_id": 100,
+              "has_tags": false
+            },
+            "replies": {
+              "count": 0,
+              "new": 0
+            },
+            "seen": 1,
+            "is_one_time": false,
+            "track_code": "111",
+            "type": "photo",
+            "reaction_set_id": "reactions",
+            "is_restricted": false,
+            "no_sound": true,
+            "need_mute": false,
+            "mute_reply": false,
+            "can_ask": 0,
+            "can_ask_anonymous": 0,
+            "preloading_enabled": true
+          }
+        ],
+        "has_unseen": false,
+        "name": "Настасья Самбурская"
+      }
+    ],
+    "ads": {
+      "settings": {
+        "interval_type": "stories_and_authors",
+        "stories_interval": 1,
+        "authors_interval": 6,
+        "time_interval": 0,
+        "stories_init": 0,
+        "authors_init": 4,
+        "time_init": 0
+      },
+      "items": []
+    }
+  }
+}
