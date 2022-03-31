@@ -17,14 +17,12 @@ from ВКонтакте.
 ### Authentication
 
 ```
-$ vkscraper --login=MyUsername [...]
+$ vkscraper --login=MyUsername [--password=MyPassword] [...]
 ```
 
 When logging in, **vkscraper** stores the access token in a file called
 `./MyUsername.vksession`, which will be reused later the next time `--login` is
-given.
-
-Do not delete the session file, logging in is an expensive operation.
+given. Do not delete the session file, logging in is an expensive operation.
 
 ### Downloading users and communities
 
@@ -32,12 +30,40 @@ Do not delete the session file, logging in is an expensive operation.
 $ vkscraper --login=MyUsername insidevk
 ```
 
-By default, all available content is downloaded.
+By default, all available content will be downloaded.
 
- - Do not download stories: `--no-stories`.
- - Do not download photos: `--no-photos`.
- - Do not download videos: `--no-videos`.
- - Do not download posts (text and attached photos): `--no-posts`.
+#### Archive options
+
+ - `--no-photos`
+ - `--no-posts`
+ - `--no-stories`
+ - `--no-tagged-photos`
+ - `--no-videos`
+
+#### Directory structure
+
+```
+.
+├── photos
+│   ├── 2022-03-02T10:20:28Z (34894549853).jpg
+│   └── 2022-03-02T10:20:28Z (34894549853).json
+├── posts
+│   ├── 2022-03-02T10:20:15Z (14312312311).json
+│   └── 2022-03-02T10:20:15Z (14312312311).txt
+├── stories
+│   ├── 2022-01-01T10:20:15Z (54894549852).jpg
+│   ├── 2022-01-01T10:20:15Z (54894549852).json
+│   ├── 2022-01-01T10:20:28Z (54894549853).mp4
+│   └── 2022-01-01T10:20:28Z (54894549853).json
+├── tagged_photos
+│   ├── 2022-03-02T10:20:28Z (84893123153).jpg
+│   └── 2022-03-02T10:20:28Z (84893123153).json
+├── videos
+│   ├── 2022-01-01T10:20:28Z (64812111853).mp4
+│   └── 2022-01-01T10:20:28Z (64812111853).json
+├── meta.json
+└── id
+```
 
 ### Batch file
 
@@ -48,7 +74,7 @@ comments are also ignored.
 Given `DataHoarder.txt`:
 
 ```sh
-# Official VK community.
+# Official VK community
 insidevk
 
 klavdiacoca # Inline comment 1; Клава Кока; profile
